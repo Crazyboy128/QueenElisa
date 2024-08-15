@@ -4,7 +4,22 @@ const chalk = require('chalk')
 module.exports = {
   SESSION_ID: '',
   ALIVE_REACT: '👋',
-  ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
+  ALIVE_MESSAGE: `*Hҽყ  Tԋҽɾҽ  I'ɱ 𝚂𝙷𝙰𝙽 𝙼𝙾𝙳𝚣  ||°* ✅ 🪄
+
+
+Welcome to I   𝚂𝚑𝚊𝚗 𝙼𝚘𝚍𝚣 𝙱𝚘𝚝  </ 🤖 🪼
+So , I think this bots are useful 
+to you . 😊
+Nice to meet you 🤝
+*Thankyou* ♥️ 🪄 
+
+🎀 Owner - 𝚂𝚑𝚊𝚗_𝙼𝚘𝚍𝚣 |° ©
+
+📒 𝙳𝚘 𝚢𝚘𝚞 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚐𝚎𝚝 𝚊𝚕𝚕 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜 ?
+𝚃𝚢𝚙𝚎 & 𝚂𝚎𝚗𝚍 -  *.menu*  or  *.list*
+
+*ConnectUs* ✅
+https://wa.me/+94759549725?text=*Hҽყ_𝚂𝚑𝚊𝚗_𝙼𝚘𝚍𝚣_||°*_♥️_🪄*
 
 ⏰ Now time is @time
 📅 Date : @date
@@ -18,23 +33,23 @@ module.exports = {
 ☫ Work Type : @worktype
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
-  ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+  ALIVE_MEDIA: 'https://i.ibb.co/jZdSsWz/IMG-20231224-WA0375.jpg',
+  MONGODB_URL: 'mongodb+srv://tempmail1829:7W1Ji1KDtd5W5pdE@cluster0.w9oryfw.mongodb.net/', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
   BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
-  WORK_TYPE: 'public',
+  OWNER_NAME: 'MR  Shan',
+  OWNER_NUMBER: '94759549725',
+  SUDO: '94759549725',
+  WORK_TYPE: 'private',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
   CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
   STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
   STICKER_PACK: 'ᴍʀ ɴɪᴍᴀ ᴏꜰᴄ',
   REMOVE_BG_APIKEY: '',
-  MAXIMUM_FILESIZE: 90,
+  MAXIMUM_FILESIZE: 500,
   OWNER_R_EMOJI: '👽',
   ALIVE_AS_GIF: true,
   AUTO_VOICE: false,
@@ -42,7 +57,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   OWNER_REACT: true,
   AUTO_REACT: true,
   ONLY_PM_GROUP_MSG_SEND: false,
-  AUTO_SEEN_STATUS: true,
+  AUTO_SEEN_STATUS: false,
   BOT_OFFLINE: false,
   READ_MESSAGE: false,
   ANTI_MSG_SPAM: false,
